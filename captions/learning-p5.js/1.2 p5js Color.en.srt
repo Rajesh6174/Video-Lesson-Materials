@@ -71,7 +71,7 @@ be using is 'functions'!
 16
 00:01:00,021 --> 00:01:09,430
 I showed you a bunch of functions:
-rect(), ellipse(), line().
+rect(), ellipse(), line()..
 
 17
 00:01:09,430 --> 00:01:12,636
